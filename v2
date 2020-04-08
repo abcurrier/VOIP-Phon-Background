@@ -7,4 +7,18 @@
   <LocationY>0</LocationY>
   <Invert>0</Invert>
  </Image>
+<Clock>
+  <LocationX>80</LocationX>
+  <LocationY>15</LocationY>
+ </Clock>
+ <Date>
+  <LocationX>108</LocationX>
+  <LocationY>56</LocationY>
+ </Date>
+ <Line>
+  <Account>
+   <LocationX>0</LocationX>
+   <LocationY>0</LocationY>
+  </Account>
+ </Line>
 </screen_description>
