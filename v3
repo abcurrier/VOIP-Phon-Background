@@ -8,26 +8,18 @@
   <Invert>0</Invert>
 </Image>
 
-<Line>: Current outgoing line/identity
-<LocationX>: Horizontal Position in Pixel
-<LocationY>: Vertical Position in Pixel
-  
-<Clock>
-<LocationX>
-<LocationY>
-  
-<DigitalClock>
-<Location128>: Horizontal Position in Pixel
-<Location0>: Vertical Position in Pixel
-  
-<Date>
-<LocationX>: Horizontal Position in Pixel
-<LocationY>: Vertical Position in Pixel
-  
-<Status>
-<LocationX>: Horizontal Position in Pixel
-<LocationY>: Vertical Position in Pixel
-  
-<SoftKeys>
-<LocationX>: Horizontal Position in Pixel
-<LocationY>: Vertical Position in Pixel
+ <Clock>
+  <LocationX>80</LocationX>
+  <LocationY>15</LocationY>
+ </Clock>
+ <Date>
+  <LocationX>108</LocationX>
+  <LocationY>56</LocationY>
+ </Date>
+ <Line>
+  <Account>
+   <LocationX>0</LocationX>
+   <LocationY>0</LocationY>
+  </Account>
+ </Line>
+</screen_description>
